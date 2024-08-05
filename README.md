@@ -1,1 +1,1 @@
-Some Python scripts witch I thing is the "base scripts"
+Some Python scripts witch I think is the "base scripts"
